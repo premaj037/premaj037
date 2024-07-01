@@ -1,6 +1,5 @@
 # Hello, I'm Prema J 👋
 
-## Find Me Online
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/prema-j-2697b8228/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/prema153/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/premaj037)
@@ -21,10 +20,7 @@ I'm a developer skilled in the MERN stack and passionate about building web appl
 - **Database**: MongoDB
 - **Tools**: Visual Studio Code, Figma
 
-## Find Me Online
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/prema-j-2697b8228/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/prema153/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/premaj037)
 
 ## Contact
 - **Email**: [jprema153@gmail.com](mailto:jprema153@gmail.com)
+- **LinkedIn**: https://www.linkedin.com/in/prema-j-2697b8228/
